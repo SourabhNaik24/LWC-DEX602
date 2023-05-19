@@ -1,14 +1,3 @@
-# SFDX  App
-
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
+**Program Lightning Web Components (DEX602) Training**
 
 
